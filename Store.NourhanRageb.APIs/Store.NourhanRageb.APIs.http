@@ -1,0 +1,6 @@
+@Store.NourhanRageb.APIs_HostAddress = http://localhost:5008
+
+GET {{Store.NourhanRageb.APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
